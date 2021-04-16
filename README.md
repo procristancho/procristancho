@@ -1,10 +1,12 @@
-### Hi 👋🏼
+### Hola 👋🏼
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/procristancho)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-andres-cardenas-osorio-63581a81/)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/Procristancho)
 
 Qiero darte una grata bienvenida a mi página de GitHub!, mi nombre es Cristian A. Cárdenas, soy estudiante de Ingeniería de Sistemas en la universidad Antonio José Camacho en la ciudad de Santiago de Cali, Colombia.
+
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/22782918/115094026-bebfc080-9ee1-11eb-9dc0-480680849baf.jpeg" width="50%" height="auto" />
 
 ### 🌱 Actualmente estoy trabajando en:
 
@@ -36,9 +38,8 @@ Qiero darte una grata bienvenida a mi página de GitHub!, mi nombre es Cristian 
 #### Control de versiones
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
-
-
 </p>
+
 
 
 <!--
