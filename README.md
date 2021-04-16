@@ -12,6 +12,10 @@ Qiero darte una grata bienvenida a mi página de GitHub!, mi nombre es Cristian 
 - Un sistema con Selenium y Python para la presentación de reportes automaticamente
 
 #### :computer: Lenguajes y herramientas de programación:
+<p>
+ 
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=procristancho&show_icons=true&hide_border=true" />
+ 
 #### Backend and framewors:
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -34,15 +38,7 @@ Qiero darte una grata bienvenida a mi página de GitHub!, mi nombre es Cristian 
 
 
 
-
-
-
-
-
-
- 
-
-
+</p>
 
 
 <!--
