@@ -8,6 +8,8 @@ Qiero darte una grata bienvenida a mi página de GitHub!, mi nombre es Cristian 
 
 <img align="right" alt="img" src="https://user-images.githubusercontent.com/22782918/115094026-bebfc080-9ee1-11eb-9dc0-480680849baf.jpeg" width="50%" height="auto" />
 
+<code> <br> </code>
+
 ### 🌱 Actualmente estoy trabajando en:
 
 - Un sistema de historias clínicas orientado a varias actividades administrativas fuera de la facturación
@@ -15,27 +17,27 @@ Qiero darte una grata bienvenida a mi página de GitHub!, mi nombre es Cristian 
 
 #### :computer: Lenguajes y herramientas de programación:
 <p>
+   
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=procristancho&show_icons=true&hide_border=true" />  
  
- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=procristancho&show_icons=true&hide_border=true" />
  
 #### Backend and framewors:
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<br>
+
 
 #### Bases de datos:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 
-#### Fontend
+
+#### Fontend y control de versiones
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-
-#### Control de versiones
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 </p>
