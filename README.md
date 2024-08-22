@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-andres-cardenas-osorio-63581a81/)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/Procristancho)
 
-Qiero darte una grata bienvenida a mi página de GitHub!, mi nombre es Cristian A. Cárdenas, soy estudiante de Ingeniería de Sistemas en la universidad Antonio José Camacho en la ciudad de Santiago de Cali, Colombia.
+Soy Cristian A. Cárdenas, estudiante de Ingeniería de Sistemas en la Universidad Antonio José Camacho, en Santiago de Cali, Colombia. Este espacio es donde comparto algunos de los proyectos en los que estoy trabajando. Gracias por visitar mi repositorio.
 
 <img align="right" alt="img" src="https://user-images.githubusercontent.com/22782918/115094026-bebfc080-9ee1-11eb-9dc0-480680849baf.jpeg" width="50%" height="auto" />
 
