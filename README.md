@@ -6,7 +6,7 @@
 
 Soy Cristian A. Cárdenas, estudiante de Ingeniería de Sistemas en la Universidad Antonio José Camacho, en Santiago de Cali, Colombia. Este espacio es donde comparto algunos de los proyectos en los que estoy trabajando. Gracias por visitar mi repositorio.
 
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/22782918/115094026-bebfc080-9ee1-11eb-9dc0-480680849baf.jpeg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/user-attachments/assets/c18f6275-7ae1-4694-8613-e000e9b6dd25" width="50%" height="auto" />
 
 <code> <br> </code>
 
